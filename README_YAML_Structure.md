@@ -19,7 +19,7 @@ The CV system pulls data from individual YAML files hosted on GitHub. Each secti
 | `workshops.yaml` | Teaching & training | List of objects | title, location, start, description, url |
 | `awards.yaml` | Grants & funding | List of objects | name, institute, city, date, description, url, link_type |
 | `publications.yaml` | Academic publications | List of objects | title, authors, year, journal, volume, pages, doi |
-| `oral_presentations.yaml` | Conference presentations | List of objects | title, event, location, date, url |
+| `presentations.yaml` | Conference presentations | List of objects | title, event, location, date, url |
 | `posters.yaml` | Poster presentations | List of objects | title, event, location, date, url |
 | `packages.yaml` | R packages | List of objects | package, description, url, cran, version |
 
