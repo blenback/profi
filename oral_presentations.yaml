@@ -8,7 +8,7 @@
 - title: Combining filter and embedded approaches to improve variable selection in
     land use change Cellular Automata models
   event: 11th International Environmental Modelling and Software Society conference
-  location: "\r\nBrussels, Belgium"
+  location: "Brussels, Belgium"
   date: Jul. 2022
   type: ''
   url: https://blenback.github.io/presentations/2022_07_01_IEMSs_model_pres/
@@ -16,7 +16,7 @@
     modelling to simulate pathways for a functioning Ecological Infrastructure for
     Switzerland'
   event: 11th International Environmental Modelling and Software Society conference
-  location: "\r\nBrussels, Belgium"
+  location: "Brussels, Belgium"
   date: Jul. 2022
   type: ''
   url: https://blenback.github.io/presentations/2022_07_01_IEMSs_ValParCH_pres/
@@ -33,6 +33,10 @@
   date: Nov. 2023
   type: ''
   url: https://blenback.github.io/presentations/2023_11_30_SwissRE/
+- title: Exploratory modelling of stochastic land use cover change (LUCC) future scenarios for spatial planning
+  event: 10th Annual Conference of the Society for Decision Making Under Deep Uncertainty (DMDU 2023)
+  location: Delft, Netherlands
+  type: ''
 - title: Normative scenarios of landscape change for Nature-Positive futures in Peru
   event: World Biodiversity Forum
   location: Davos, Switzerland
