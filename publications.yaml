@@ -13,7 +13,6 @@
   results_url: ''
   bibtex: https://raw.githubusercontent.com/blenback/profi/main/bibtex/Cam_PA_effect.bib
   summary: | 
-    <div class="card-text">
       <div class="section">
         <h4>📝 Overview</h4>
         <p>Forests play a vital role in maintaining ecological balance by storing 
@@ -78,7 +77,6 @@
           deforestation and preserve Cambodia's rich forest ecosystems.</li>
         </ul>
       </div>
-    </div>
 - title: 'Re-considering the status quo: Improving calibration of land use change
     models through validation of transition potential predictions'
   authors: Black, B. and van Strien, M. J. and Adde, A. and Grêt-Regamey, A.
