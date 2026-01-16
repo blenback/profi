@@ -13,37 +13,36 @@
   results_url: ''
   bibtex: https://raw.githubusercontent.com/blenback/profi/main/bibtex/Cam_PA_effect.bib
   summary: | 
-    <p class='card-text'>
-    
+    <div class="card-text">
       <div class="section">
-      <h4>📝 Overview</h4>
-      <p>Forests play a vital role in maintaining ecological balance by storing 
-      carbon, supporting biodiversity, and regulating climate patterns. However,
-      rapid deforestation—caused by agriculture, infrastructure development, 
-      and illegal logging—poses a significant threat to these ecosystems. 
-      To counteract this issue, governments and conservation organizations have
-      established protected areas (PAs), which are designated regions where land
-      use is restricted to prevent forest loss. While these areas are intended 
-      to preserve forests, their effectiveness is often uncertain. 
-      This study aims to evaluate whether Cambodia’s protected areas have
-      successfully reduced deforestation and to what extent they contribute
-      to conservation efforts.
-      </p>
+        <h4>📝 Overview</h4>
+        <p>Forests play a vital role in maintaining ecological balance by storing 
+        carbon, supporting biodiversity, and regulating climate patterns. However,
+        rapid deforestation—caused by agriculture, infrastructure development, 
+        and illegal logging—poses a significant threat to these ecosystems. 
+        To counteract this issue, governments and conservation organizations have
+        established protected areas (PAs), which are designated regions where land
+        use is restricted to prevent forest loss. While these areas are intended 
+        to preserve forests, their effectiveness is often uncertain. 
+        This study aims to evaluate whether Cambodia's protected areas have
+        successfully reduced deforestation and to what extent they contribute
+        to conservation efforts.
+        </p>
       </div>
       
       <div class="section">
-      <h4>🔍 Key Findings</h4>
-      <ul>
+        <h4>🔍 Key Findings</h4>
+        <ul>
           <li>Protected areas have had a measurable impact on reducing deforestation, but their success varies widely based on location, enforcement, and external pressures.</li>
           <li>Some PAs significantly reduced deforestation, particularly those with strong legal enforcement and active management strategies.</li>
           <li>Many PAs located in high-risk areas (e.g., near expanding agricultural zones and infrastructure projects) were more effective than those in remote, less-threatened regions.</li>            
           <li>Despite legal protection, deforestation still occurred within some PAs, often due to weak enforcement, illegal logging, or encroachment for agricultural use.</li>
           <li>The study also found that some PAs were established in areas where deforestation risk was already low, making their protective impact appear greater than it actually was.</li>
-      </ul>
+        </ul>
       </div>
       
       <div class="section">
-      <h4>🧪 Methods</h4>
+        <h4>🧪 Methods</h4>
         <p>Rather than simply comparing protected forests to unprotected ones, 
         this research employed a method known as <strong>counterfactual analysis</strong>.
         This technique helps estimate what would have happened if no protections had been put in place. 
@@ -57,27 +56,29 @@
         and historical deforestation trends. By comparing observed deforestation within PAs 
         to a predicted scenario without protections, the study was able to isolate the true impact of conservation efforts.
         </p>
-        </div>
+      </div>
       
-    <div class="section">
-      <h4>🌱 Implications</h4>
-          <ul>
-        <p>
-        <li> Understanding how well protected areas function is critical for improving
-        conservation strategies. If some PAs are not successfully reducing deforestation,
-        it may indicate a need for better enforcement, improved land management policies,
-        or the establishment of protection in higher-risk areas.</li>
-        <li> This study highlights the importance of using data-driven approaches to
-        evaluate conservation outcomes and ensure that resources are directed
-        toward efforts that have the greatest impact.</li>
-        <li> By refining the selection 
-        and management of protected areas, policymakers and conservationists can
-        enhance their effectiveness, ensuring that Cambodia’s forests continue
-        to provide ecological, economic, and social benefits for future generations.</li>
-        <li> This research underscores the need for scientific assessments in
-        conservation planning. By continually monitoring and adapting conservation policies
-        based on evidence, we can create more effective strategies to combat
-        deforestation and preserve Cambodia’s rich forest ecosystems.</li>
+      <div class="section">
+        <h4>🌱 Implications</h4>
+        <ul>
+          <li>Understanding how well protected areas function is critical for improving
+          conservation strategies. If some PAs are not successfully reducing deforestation,
+          it may indicate a need for better enforcement, improved land management policies,
+          or the establishment of protection in higher-risk areas.</li>
+          <li>This study highlights the importance of using data-driven approaches to
+          evaluate conservation outcomes and ensure that resources are directed
+          toward efforts that have the greatest impact.</li>
+          <li>By refining the selection 
+          and management of protected areas, policymakers and conservationists can
+          enhance their effectiveness, ensuring that Cambodia's forests continue
+          to provide ecological, economic, and social benefits for future generations.</li>
+          <li>This research underscores the need for scientific assessments in
+          conservation planning. By continually monitoring and adapting conservation policies
+          based on evidence, we can create more effective strategies to combat
+          deforestation and preserve Cambodia's rich forest ecosystems.</li>
+        </ul>
+      </div>
+    </div>
 - title: 'Re-considering the status quo: Improving calibration of land use change
     models through validation of transition potential predictions'
   authors: Black, B. and van Strien, M. J. and Adde, A. and Grêt-Regamey, A.
@@ -92,16 +93,15 @@
   results_url: ''
   bibtex: https://raw.githubusercontent.com/blenback/profi/main/bibtex/ICoLCM.bib
   summary: |
-    <p class='card-text'>
-
-    <div class="section">
-      <h4>📝 Overview</h4>
-      <p>
-      This study explores how land use and land cover change (LULCC) is predicted using models called cellular automata. 
-      Typically, models are only evaluated after they simulate changes, but this paper shows that checking the predictions 
-      earlier in the process—called <strong>stage 1 validation</strong>—can make models more accurate and easier to understand.
-    </p>
-    </div>
+    <div class="card-text">
+      <div class="section">
+        <h4>📝 Overview</h4>
+        <p>
+        This study explores how land use and land cover change (LULCC) is predicted using models called cellular automata. 
+        Typically, models are only evaluated after they simulate changes, but this paper shows that checking the predictions 
+        earlier in the process—called <strong>stage 1 validation</strong>—can make models more accurate and easier to understand.
+        </p>
+      </div>
     
     <div class="section">
       <h4>🔍 Key Findings</h4>
@@ -140,6 +140,7 @@
         <li><strong>Supports sustainable planning:</strong> Better models mean better decisions for urban growth, agriculture, and nature.</li>
       </ul>
     </div>
+    </div>
 - title: Archetypes of social-ecological-technological systems for managing ecological
     infrastructure
   authors: Wicki, S. and Black, B. and Kurmann, M. and Grêt-Regamey, A.
@@ -154,17 +155,16 @@
   results_url: ''
   bibtex: https://raw.githubusercontent.com/blenback/profi/main/bibtex/Archetypes.bib
   summary: |
-    <p class='card-text'>
-    
-    <div class="section">
-    <h4>📝 Overview</h4>
-    <p>
-      This study explores how ecological infrastructure (EI)—like wetlands, forests, and green spaces—can be better planned 
-      and managed in urban areas. Using Geneva, Switzerland as a case study, we applied a systems-based approach 
-      combining social, ecological, and technological data to create spatial <strong>archetypes</strong>. These archetypes help identify how 
-      different types of landscapes function and what strategies might work best to support nature and human well-being.
-    </p>
-    </div>
+    <div class="card-text">
+      <div class="section">
+        <h4>📝 Overview</h4>
+        <p>
+        This study explores how ecological infrastructure (EI)—like wetlands, forests, and green spaces—can be better planned 
+        and managed in urban areas. Using Geneva, Switzerland as a case study, we applied a systems-based approach 
+        combining social, ecological, and technological data to create spatial <strong>archetypes</strong>. These archetypes help identify how 
+        different types of landscapes function and what strategies might work best to support nature and human well-being.
+        </p>
+      </div>
 
     <div class="section">
     <h4>🔍 Key Findings</h4>
@@ -195,7 +195,10 @@
       <li><strong>Integrated planning is key:</strong> Social and ecological systems must be aligned through smart design and regulation.</li>
       <li><strong>EI is not one-size-fits-all:</strong> Policies should reflect regional variation in land use and biodiversity potential.</li>
       <li><strong>Stakeholder engagement is essential:</strong> Co-producing knowledge ensures practical, accepted solutions.</li>
-      <li><strong>Transferable approach:</strong> This archetype method can be applied to other urban regions worldwide to guide sustainable land use.</li>
+              <li><strong>Transferable approach:</strong> This archetype method can be applied to other urban regions worldwide to guide sustainable land use.</li>
+      </ul>
+    </div>
+    </div>
     </ul>
     </div>
 - title: 'Broadening the horizon in land use change modelling: Normative scenarios
@@ -214,15 +217,15 @@
   results_url: ''
   bibtex: https://raw.githubusercontent.com/blenback/profi/main/bibtex/lulcc_ch.bib
   summary: |
-    <p class='card-text'>
-    <div class="section">
-    <h4>📝 Overview</h4>
-    <p>
-      This research explores how to model future land use in Switzerland using scenarios that focus on positive outcomes for nature and society. 
-      Instead of simply predicting what might happen, we created five future scenarios—three "normative" (based on goals) and two "exploratory" 
-      (based on trends). They used a sophisticated spatial simulation model to test how different choices might shape the landscape between 2020 and 2060.
-    </p>
-    </div>
+    <div class="card-text">
+      <div class="section">
+        <h4>📝 Overview</h4>
+        <p>
+        This research explores how to model future land use in Switzerland using scenarios that focus on positive outcomes for nature and society. 
+        Instead of simply predicting what might happen, we created five future scenarios—three "normative" (based on goals) and two "exploratory" 
+        (based on trends). They used a sophisticated spatial simulation model to test how different choices might shape the landscape between 2020 and 2060.
+        </p>
+      </div>
 
     <div class="section">
       <h4>🔍 Key Findings</h4>
@@ -261,6 +264,7 @@
         <li><strong>Future planning can benefit from scenario modelling</strong> by identifying trade-offs and synergies before decisions are made.</li>
       </ul>
     </div>
+    </div>
     </div>  
 - title: Identifying robust area-based conservation strategies to secure ecosystem service provision
     under uncertainties
@@ -276,9 +280,8 @@
   preprint_url: 'https://dx.doi.org/10.2139/ssrn.5447007'
   results_url: ''
   summary: |
-    <p class='card-text'>
-
-    <div class="section">
+    <div class="card-text">
+      <div class="section">
         <h4>📝 Overview</h4>
         <p>Protected areas are the primary strategy for preserving biodiversity globally, 
         with countries committed to protecting 30% of land by 2030 under the Kunming-Montreal 
@@ -290,7 +293,7 @@
         testing different conservation strategies under uncertain future conditions, using 
         Switzerland as a case study to identify which approaches will be most effective 
         regardless of how the future unfolds.</p>
-    </div>
+      </div>
     
     <div class="section">
         <h4>🔍 Key Findings</h4>
@@ -352,13 +355,13 @@
             <li>Conservation plans should directly incorporate ecosystem services alongside 
             biodiversity data, as prioritizing areas based on current service provision proved 
             more effective than focusing solely on species distributions.</li>
-            <li>Successful conservation will require adaptive management that combines multiple 
-            approaches—preservation and restoration, large reserves and small patches—tailored 
-            to different regional contexts rather than applying a one-size-fits-all strategy.</li>
-        </ul>
+        <li>Successful conservation will require adaptive management that combines multiple 
+        approaches—preservation and restoration, large reserves and small patches—tailored 
+        to different regional contexts rather than applying a one-size-fits-all strategy.</li>
+      </ul>
     </div>
     </div>
-- title: Temporal Archetypes of Nature’s Contributions to People for Sustainable Landscape
+- title: Temporal Archetypes of Nature's Contributions to People for Sustainable Landscape
     Development
   authors: Wicki, S., Black, B., Külling, N., Kurmann, M., Wang, J., Lehmann, A.,
     Gret-Regamey, A.
