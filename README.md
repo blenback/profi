@@ -1,10 +1,10 @@
 # CV YAML Data Structure Documentation
 
-This README documents the expected field structure for each YAML file used in the remote CV generation system.
+This README documents the expected field structure for each YAML file used to populate my CV and personal website.
 
 ## Overview
 
-The CV system pulls data from individual YAML files hosted on GitHub. Each section of the CV corresponds to a specific YAML file with its own expected structure. All fields should be strings unless otherwise specified.
+My CV and website pull data from individual YAML files hosted on GitHub. Each section of the CV corresponds to a specific YAML file with its own expected structure. Whereas, publications.yaml is used to populate the publications page of my website. All fields should be strings unless otherwise specified.
 
 ## File Structure Summary
 
