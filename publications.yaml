@@ -12,71 +12,24 @@
   preprint_url: ''
   results_url: ''
   bibtex: https://raw.githubusercontent.com/blenback/profi/main/bibtex/Cam_PA_effect.bib
-  summary: | 
-      <div class="section">
-        <h4>📝 Overview</h4>
-        <p>Forests play a vital role in maintaining ecological balance by storing 
-        carbon, supporting biodiversity, and regulating climate patterns. However,
-        rapid deforestation—caused by agriculture, infrastructure development, 
-        and illegal logging—poses a significant threat to these ecosystems. 
-        To counteract this issue, governments and conservation organizations have
-        established protected areas (PAs), which are designated regions where land
-        use is restricted to prevent forest loss. While these areas are intended 
-        to preserve forests, their effectiveness is often uncertain. 
-        This study aims to evaluate whether Cambodia's protected areas have
-        successfully reduced deforestation and to what extent they contribute
-        to conservation efforts.
-        </p>
-      </div>
-      
-      <div class="section">
-        <h4>🔍 Key Findings</h4>
-        <ul>
-          <li>Protected areas have had a measurable impact on reducing deforestation, but their success varies widely based on location, enforcement, and external pressures.</li>
-          <li>Some PAs significantly reduced deforestation, particularly those with strong legal enforcement and active management strategies.</li>
-          <li>Many PAs located in high-risk areas (e.g., near expanding agricultural zones and infrastructure projects) were more effective than those in remote, less-threatened regions.</li>            
-          <li>Despite legal protection, deforestation still occurred within some PAs, often due to weak enforcement, illegal logging, or encroachment for agricultural use.</li>
-          <li>The study also found that some PAs were established in areas where deforestation risk was already low, making their protective impact appear greater than it actually was.</li>
-        </ul>
-      </div>
-      
-      <div class="section">
-        <h4>🧪 Methods</h4>
-        <p>Rather than simply comparing protected forests to unprotected ones, 
-        this research employed a method known as <strong>counterfactual analysis</strong>.
-        This technique helps estimate what would have happened if no protections had been put in place. 
-        By doing so, the study provides a more accurate assessment of the real impact of protected areas.
-        Without using this approach, it is difficult to determine whether a protected 
-        forest remains intact because of conservation policies or simply because 
-        it was never at high risk of deforestation.</p>
-        <p>To conduct this analysis, satellite imagery and deforestation data 
-        were examined across different regions in Cambodia. Various factors were
-        considered, including land-use policies, road proximity, human population density,
-        and historical deforestation trends. By comparing observed deforestation within PAs 
-        to a predicted scenario without protections, the study was able to isolate the true impact of conservation efforts.
-        </p>
-      </div>
-      
-      <div class="section">
-        <h4>🌱 Implications</h4>
-        <ul>
-          <li>Understanding how well protected areas function is critical for improving
-          conservation strategies. If some PAs are not successfully reducing deforestation,
-          it may indicate a need for better enforcement, improved land management policies,
-          or the establishment of protection in higher-risk areas.</li>
-          <li>This study highlights the importance of using data-driven approaches to
-          evaluate conservation outcomes and ensure that resources are directed
-          toward efforts that have the greatest impact.</li>
-          <li>By refining the selection 
-          and management of protected areas, policymakers and conservationists can
-          enhance their effectiveness, ensuring that Cambodia's forests continue
-          to provide ecological, economic, and social benefits for future generations.</li>
-          <li>This research underscores the need for scientific assessments in
-          conservation planning. By continually monitoring and adapting conservation policies
-          based on evidence, we can create more effective strategies to combat
-          deforestation and preserve Cambodia's rich forest ecosystems.</li>
-        </ul>
-      </div>
+  summary: |
+  #### 📝 Overview
+  
+  Forests play a vital role in maintaining ecological balance...
+  
+  #### 🔍 Key Findings
+  
+  - Protected areas have had a measurable impact...
+  - Some PAs significantly reduced deforestation...
+  
+  #### 🧪 Methods
+  
+  Rather than simply comparing protected forests...
+  
+  #### 🌱 Implications
+  
+  - Understanding how well protected areas function...
+  - This study highlights the importance...
 - title: 'Re-considering the status quo: Improving calibration of land use change
     models through validation of transition potential predictions'
   authors: Black, B. and van Strien, M. J. and Adde, A. and Grêt-Regamey, A.
