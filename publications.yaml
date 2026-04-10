@@ -480,7 +480,7 @@
   journal: Bioscience
   volume: ''
   pages: ''
-  doi: https://doi.org/10.1093/biosci/biag010
+  doi: 'https://doi.org/10.1093/biosci/biag010'
   data_url: ''
   code_url: ''
   preprint_url: ''
