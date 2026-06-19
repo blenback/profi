@@ -1,0 +1,49 @@
+name: YAML check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  parse:
+    name: Parse all YAML files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install PyYAML
+        run: pip install PyYAML
+
+      - name: Parse YAML files
+        run: |
+          import glob
+          import sys
+
+          import yaml
+
+          files = sorted(glob.glob("**/*.yaml", recursive=True) + glob.glob("**/*.yml", recursive=True))
+          if not files:
+              print("No YAML files found.")
+              sys.exit(0)
+
+          errors = []
+          for path in files:
+              with open(path, encoding="utf-8") as handle:
+                  try:
+                      list(yaml.safe_load_all(handle))
+                  except yaml.YAMLError as exc:
+                      errors.append((path, exc))
+                      print(f"::error file={path}::{exc}")
+                  else:
+                      print(f"OK  {path}")
+
+          if errors:
+              print(f"\n{len(errors)} file(s) failed to parse.")
+              sys.exit(1)
+
+          print(f"\nAll {len(files)} file(s) parsed successfully.")
+        shell: python

@@ -436,7 +436,7 @@
   embed_type: pdf
   embed_path: /assets/2026_06_16_WBF_NFF.pdf
 
-  - id: 2026_06_16_WBF_panel
+- id: 2026_06_16_WBF_panel
   title: 'Scenario-modelling to secure biodiversity and ecosystem services under uncertainty: Insights from Peru and Switzerland'
   event: World Biodiversity Forum 2026
   location: Davos, Switzerland
