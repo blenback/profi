@@ -1,0 +1,31 @@
+- title: 'Synthesising advances in uncertainty exploration in land change modelling to inform planning and policy'
+  location: Dublin, Ireland
+  start: Jul. 2026
+  end: ''
+  description: Session at the 13th International Environmental Modelling and Software Society (iEMSs) conference
+- title: 'One Tool to Rule Them All: Quarto for Documentation, Presentations, Manuscripts and Outreach'
+  location: Dublin, Ireland
+  start: Jul. 2026
+  end: ''
+  description: A guided workshop website on the open-source scientific and technical publishing system Quarto and it's usage for typical scientific publishing applications. First given at the [13th International Congress on Environmental Modelling and Software (2026)](https://conference.iemss.org/timetable/event/wsc1/).
+  url: https://iat-dml.github.io/quarto-workshop/
+- title: 'Rethinking static spatial planning for biodiversity conservation in a rapidly changing world'
+  location: Davos, Switzerland
+  start: Jun. 2026
+  end: ''
+  description: Session at the World Biodiversity Forum 2026
+- title: 'Reproducible Research with R and Quarto: Workflows for data, projects and
+    publications'
+  location: Berlin, Germany
+  start: Sep. 2024
+  end: ''
+  description: Three hour workshop as part of Landscape 2024 conference
+  url: https://blenback.github.io/R-for-Reproducible-Research/
+- title: 'Participatory Environmental Modelling: MSc course at ETH Zürich'
+  location: Zürich, Switzerland
+  start: Feb. 2021
+  end: Jul. 2024
+  description: Designed and taught an MSc-level course integrating students and practitioners
+    to develop simulation models for real-world environmental decision-making.
+  url: ''
+
