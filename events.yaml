@@ -3,6 +3,7 @@
   start: Jul. 2026
   end: ''
   description: Session at the 13th International Environmental Modelling and Software Society (iEMSs) conference
+  url: ''
 - title: 'One Tool to Rule Them All: Quarto for Documentation, Presentations, Manuscripts and Outreach'
   location: Dublin, Ireland
   start: Jul. 2026
@@ -13,6 +14,7 @@
   location: Davos, Switzerland
   start: Jun. 2026
   end: ''
+  url: ''
   description: Session at the World Biodiversity Forum 2026
 - title: 'Reproducible Research with R and Quarto: Workflows for data, projects and
     publications'
